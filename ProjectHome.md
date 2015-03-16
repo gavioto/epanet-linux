@@ -1,0 +1,1 @@
+Este proyecto busca portar epanet a la plataforma GNU/Linux utilizando tecnologias como Python-Qt4, para soporta otras plataformas como MacOS. Actualmente estamos unidos al proyecto openagro.
